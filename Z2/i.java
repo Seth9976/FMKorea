@@ -1,0 +1,8 @@
+package z2;
+
+import com.google.android.gms.tasks.Task;
+
+public interface i {
+    Task a();
+}
+
